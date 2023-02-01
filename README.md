@@ -6,4 +6,5 @@ No codigo o "Calculator" que recebe dois parâmetros, "previousOperationText" e 
 
 Nesse projeto desenvolvi muito o costume de comentar mais o codigo, achei muito interessante a estrutura de repetição Switch, já penso em projetos que usarei, condicional If tambem, na qual ja tenho mais familiariadade, mas ajudou relembrar bem.
 
+Video de apresentação do projeto:
 https://drive.google.com/file/d/1e8h5VvWLtBj77Mua_BRcsdhqOxzD_WYU/view?usp=share_link
