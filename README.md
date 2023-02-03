@@ -1,10 +1,21 @@
-# Calculadora2.0
+<h1>Calculadora</h1>
+<p>Uma calculadora simples criada com HTML, CSS e JavaScript.</P>
 
-Este é um código JavaScript que cria uma calculadora.Com operações, como adição, subtração, multiplicação e divisão.
+<h2> Instruções para uso: </h2>
+<p>Abra o arquivo index.html no seu navegador. <br>
+Use os botões na tela para inserir números e realizar operações matemáticas.<br>
+A tela exibirá a operação atual e a última operação realizada.</p>
 
-No codigo o "Calculator" que recebe dois parâmetros, "previousOperationText" e "currentOperationText", que são os elementos da página usados para exibir a operação anterior e a atual. Nele tem vários métodos que lidam com diferentes operações, como addDigit, processOperation, updateScreen, processDelOperator, processClearCurrentOperator, processClearOperator e processEqualOperator. Os métodos executam vários cálculos, concatenam strings e atualizam a tela com base na interação do usuário com a calculadora.
+<h2>Recursos</h2>
+<p>Realiza operações matemáticas básicas: adição, subtração, multiplicação e divisão.<br>
+Tem botões para limpar a operação atual (C), apagar o último dígito (DEL) e apagar todos os dados (CE).<br>
+Não permite que mais de um ponto decimal seja adicionado ao mesmo número.</P>
 
-Nesse projeto desenvolvi muito o costume de comentar mais o codigo, achei muito interessante a estrutura de repetição Switch, já penso em projetos que usarei, condicional If tambem, na qual ja tenho mais familiariadade, mas ajudou relembrar bem.
+<h2>Arquivos incluídos</h2>
+<p>index.html: contém o código HTML da página da calculadora.<br>
+css/styles.css: contém o código CSS para estilização da página.<br>
+css/reset.css: contém um reset CSS para garantir consistência entre navegadores.<br>
+js/scripts.js: contém o código JavaScript responsável por processar as operações matemáticas.</p>
 
-Video de apresentação do projeto:
+<h3>Video de apresentação do projeto:</h3>
 https://drive.google.com/file/d/1e8h5VvWLtBj77Mua_BRcsdhqOxzD_WYU/view?usp=share_link
